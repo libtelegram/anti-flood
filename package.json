@@ -15,9 +15,9 @@
   "author": "martiliones",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/libtelegram/antiflood/issues"
+    "url": "https://github.com/libtelegram/anti-flood/issues"
   },
-  "homepage": "https://github.com/libtelegram/antiflood#readme",
+  "homepage": "https://github.com/libtelegram/anti-flood#readme",
   "devDependencies": {
     "eslint": "^7.26.0"
   }
