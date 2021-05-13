@@ -1,0 +1,24 @@
+{
+  "name": "@libtelegram/anti-flood",
+  "version": "0.1.0",
+  "description": "AntiFlood middleware for LibTelegram",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "lint": "eslint **/*.js"
+  },
+  "keywords": [
+    "libtelegram"
+  ],
+  "author": "martiliones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libtelegram/antiflood/issues"
+  },
+  "homepage": "https://github.com/libtelegram/antiflood#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  }
+}

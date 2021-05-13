@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+*.log
+explorations
+TODOs.md
+coverage
+RELEASE_NOTE*.md
+.vscode
