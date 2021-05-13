@@ -19,7 +19,7 @@ exports.omission = (opts, callback) => {
     }
 
     if (typeof callback === 'function') {
-      callback(usr, msg);
+      return callback(usr, msg);
     }
   };
 };
@@ -53,7 +53,7 @@ exports.penalty = (opts, callback) => {
         usr.timeBlocked = now;
 
         if (typeof callback === 'function') {
-          callback(usr, msg);
+          return callback(usr, msg);
         }
 
         return;
